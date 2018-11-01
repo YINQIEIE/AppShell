@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_login_margin_top">60dp</dimen>
+    <dimen name="activity_login_view_width">240dp</dimen>
+    <dimen name="activity_login_view_height">40dp</dimen>
+    <dimen name="activity_details_margin">16dp</dimen>
+    <dimen name="dialog_margin_horizontal">20dp</dimen>
+    <dimen name="dialog_margin_horizontal_login">40dp</dimen>
+    <dimen name="dialog_evaluation_btn_height">36dp</dimen>
+    <dimen name="bottom_view_height">44dp</dimen>
+    <dimen name="item_student_info_paddingLeft">30dp</dimen>
+    <dimen name="item_student_info_paddingRight">20dp</dimen>
+</resources>
